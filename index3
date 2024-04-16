@@ -1,0 +1,52 @@
+<!-- Remaining <head> content -->
+
+<body>
+    <div class="wrapper">
+        <!-- Header -->
+        <header>
+            <!-- ... -->
+        </header>
+
+        <!-- Main Content -->
+        <main>
+            <!-- Hero Section -->
+            <section class="hero" id="home">
+                <!-- ... -->
+            </section>
+
+            <!-- About Section -->
+            <section class="about" id="about">
+                <!-- ... -->
+            </section>
+
+            <!-- Portfolio Section with Dynamic Loading -->
+            <section class="portfolio" id="portfolio">
+                <div class="portfolio-container">
+                    <!-- Content loaded dynamically with JavaScript -->
+                </div>
+            </section>
+
+            <!-- Career Plan Section -->
+            <section class="career" id="career">
+                <!-- ... -->
+            </section>
+
+            <!-- LinkedIn Section -->
+            <section class="linkedin" id="linkedin">
+                <!-- ... -->
+            </section>
+
+            <!-- Contact Section -->
+            <section class="contact" id="contact">
+                <!-- ... -->
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <!-- ... -->
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
